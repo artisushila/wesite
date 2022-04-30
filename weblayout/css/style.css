@@ -48,4 +48,9 @@ h6:hover{
     -webkit-background-clip: text;
     background-clip: text;
   }
- 
+ .dropdown-item{
+     color: #A0A0A0;
+     font-size: 18px;
+    text-shadow: 0.4px 1px 0.5px black ;
+     font-family:'Times New Roman', Times, serif ;
+ }
